@@ -23,8 +23,7 @@ public class Rectangle
      */ 
     public void printArea()
     {
-        int area = width * height;
-        System.out.println(area);
+        System.out.println(this.width * this.height);
     }
     
     
