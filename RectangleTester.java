@@ -18,6 +18,7 @@ public class RectangleTester
          // Rectangle is the class and also the type of this object.
          // Make a new rectangle called r2 with a width of 5 and height of 15, print it, then print just its area
          Rectangle r2 = new Rectangle(5,15);
+         System.out.println(r2);
          r2.printArea();
     }
 }
